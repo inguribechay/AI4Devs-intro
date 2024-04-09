@@ -1,1 +1,1 @@
-
+Crea una página en html (index.html) que tenga un label (Reverse string), debajo un input con un placeholder "Ingresa aquí la palabra", seguido de un botón que incluirá un texto "Reverse" y un ícono de reload, este botón debe tener la capacidad de realizar un string reverse y colocar el resultado debajo de este. Adicional deberá tener un botón para copiar el resultado, este botón debe contener la palabra "Copy" y un ícono de copiado, al darle clic deberá colocar en el portapapeles el resultado, las funciones necesarias deberán estar en un archivo llamado script.js
